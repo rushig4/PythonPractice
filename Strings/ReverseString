@@ -1,1 +1,17 @@
+#Given an array,A , of N integers, print A's elements in reverse order as a single line of space-separated numbers.
 
+N = int(input("Enter a number"))
+A = input("Enter numbers with space")
+print(*reversed(A.split(" ")))    # Reversing a string separated with space
+# print(*A.split(" ")[::-1])   This can also be used
+
+
+'''
+Sample Input
+4
+1 4 3 2
+
+Sample Output
+2 3 4 1
+
+'''
