@@ -5,7 +5,6 @@ A = input("Enter numbers with space")
 print(*reversed(A.split(" ")))    # Reversing a string separated with space
 # print(*A.split(" ")[::-1])   This can also be used
 
-
 '''
 Sample Input
 4
