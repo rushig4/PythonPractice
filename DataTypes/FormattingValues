@@ -9,8 +9,8 @@ There are n=5 elements, two positive, two negative and one zero. Their ratios ar
 0.200000
 
 Here is the description of the task: https://www.hackerrank.com/challenges/plus-minus/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
-
 '''
+
 def plusMinus(arr):
     positive = 0
     negative = 0
