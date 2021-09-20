@@ -22,7 +22,6 @@ Sample Input
 Sample Output
 1 2 3 4 
 '''
-
 class Node:
     def __init__(self,data):
         self.data = data
